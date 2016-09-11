@@ -6,6 +6,9 @@ public class TestingGit {
 	
 		
 		System.out.println("testing git!");
+		
+		
+		System.out.println("aleksa uci git :D ");
 
 	}
 
